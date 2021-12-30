@@ -1,0 +1,1 @@
+# shinam_client
